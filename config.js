@@ -11,11 +11,11 @@
 *
 */
 
-exports.server = 'localhost';
+exports.server = 'http://guguzin-bilada.rhcloud.com/';
 
 exports.port = 8000;
 
-exports.serverid = 'localhost';
+exports.serverid = 'http://guguzin-bilada.rhcloud.com/';
 
 exports.autoReconnectDelay = 10 * 1000;
 exports.connectionTimeout = 2 * 60 * 1000;
@@ -38,9 +38,9 @@ exports.watchconfig = true;
 * Login Details
 */
 
-exports.nick = '';
+exports.nick = 'GuguzinBot';
 
-exports.pass = '';
+exports.pass = '12jango';
 
 exports.autoReloginDelay = 60 * 1000;
 
